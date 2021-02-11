@@ -1,22 +1,4 @@
 {
-  "name": "AnyDLBot",
-  "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
-  "keywords": [
-    "telegram",
-    "best",
-    "youtube",
-    "downloader",
-    "open",
-    "source",
-    "multi",
-    "purpose",
-    "ffmpeg",
-    "remote",
-    "uploader"
-  ],
-  "success_url": "https://telegram.dog/madone89",
-  "website": "https://github.com/demon9882/AnyDLBot00000000001",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot00000000001",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
